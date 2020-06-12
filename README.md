@@ -28,7 +28,7 @@ SFM is an imaging technique used to reconstruct 3D points using 2D points from m
 </p>
 
 #### Requirements:
-###### Linux development environment. You will need the following to run the scripts:
+###### Windows development environment (Anaconda Navigator). You will need the following to run the scripts:
 ```
 OpenCV
 Numpy
